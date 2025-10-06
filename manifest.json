@@ -1,0 +1,23 @@
+{
+  "name": "greeting",
+  "description": "greeting.",
+  "functions": [
+    {
+      "name": "get_greeting",
+      "description": "Tool to get a greeting.",
+      "parameters": [
+        {
+          "name": "query",
+          "type": "string",
+          "required": true
+        }
+      ],
+      "returns": {
+        "type": "array",
+        "items": {
+          "type": "object"
+        }
+      }
+    }
+  ]
+}
