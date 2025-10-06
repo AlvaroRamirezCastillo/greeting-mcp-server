@@ -1,7 +1,7 @@
 {
   "name": "mcp-server-ts",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./build/index.js",
   "type": "module",
   "bin": {
     "weather": "./build/index.js"
