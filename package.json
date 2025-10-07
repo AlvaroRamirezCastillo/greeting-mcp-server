@@ -7,6 +7,7 @@
   "main": "./build/index.js",
   "type": "module",
   "bin": {
+    "@jinba-ittai/greeting-mcp-server": "./build/index.js",
     "greeting": "./build/index.js"
   },
   "scripts": {
