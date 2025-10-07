@@ -1,13 +1,13 @@
 {
   "name": "@jinba-ittai/mcp-server-ts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publishConfig": {
     "access": "public"
   },
   "main": "./build/index.js",
   "type": "module",
   "bin": {
-    "weather": "build/index.js"
+    "greeting": "build/index.js"
   },
   "scripts": {
     "build": "node build.mjs"
