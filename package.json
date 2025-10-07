@@ -1,13 +1,13 @@
 {
   "name": "@jinba-ittai/greeting-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
   "main": "./build/index.js",
   "type": "module",
   "bin": {
-    "greeting": "build/index.js"
+    "greeting": "./build/index.js"
   },
   "scripts": {
     "build": "node build.mjs"
