@@ -1,6 +1,6 @@
 {
   "name": "@jinba-ittai/greeting-mcp-server",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "mcpName": "io.github.AlvaroRamirezCastillo/greeting-mcp-server",
   "publishConfig": {
     "access": "public"
