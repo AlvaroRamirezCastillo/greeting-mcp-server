@@ -1,6 +1,7 @@
 {
   "name": "@jinba-ittai/greeting-mcp-server",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "mcpName": "io.github.AlvaroRamirezCastillo/greeting-mcp-server",
   "publishConfig": {
     "access": "public"
   },
@@ -9,7 +10,6 @@
   "bin": {
     "greeting": "/build/index.js"
   },
-  "mcpName": "io.github.AlvaroRamirezCastillo/greeting-mcp-server",
   "scripts": {
     "build": "node build.mjs"
   },
